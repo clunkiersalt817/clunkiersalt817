@@ -17,6 +17,7 @@
 - Certifications
 
 <!--START_SECTION:badges-->
+[![DevNet Associate](https://images.credly.com/size/110x110/images/35985f2b-38d6-4b6f-8e63-42b17d3b5c69/DEVASC_Learning_Badge.png)](http://www.credly.com/badges/2396dd82-ebcc-4d74-be90-e48e8f66cec4 "DevNet Associate")
 [![Cybersecurity Essentials](https://images.credly.com/size/110x110/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png)](http://www.credly.com/badges/a70a1d74-e3e4-46d0-9a9e-75cd5ec2372b "Cybersecurity Essentials")
 [![AWS Academy Graduate - AWS Academy Cloud Architecting](https://images.credly.com/size/110x110/images/2f7b0627-48a0-4894-8d46-3245bdfe0463/image.png)](http://www.credly.com/badges/f1ed787b-d83e-4ac1-ada8-4d110301d86c "AWS Academy Graduate - AWS Academy Cloud Architecting")
 [![AWS Academy Graduate - AWS Academy Cloud Foundations](https://images.credly.com/size/110x110/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png)](http://www.credly.com/badges/0ba4f650-7f83-41f9-af52-06073d8c9b21 "AWS Academy Graduate - AWS Academy Cloud Foundations")
