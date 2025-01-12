@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kshitiz Sharma</h1>
 <h3 align="center">A Passionate Software Engineer from India</h3>
 <img align="right" alt="coding" width="500" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif"/>
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1823692" style='border:none;'></iframe>
-
 
 - 👀 I’m interested in Cloud computing, DevOps, Cybersecurity.
 - ![Visitor Count](https://profile-counter.glitch.me/clunkiersalt817/count.svg)
