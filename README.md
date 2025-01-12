@@ -2,8 +2,6 @@
 <h3 align="center">A Passionate Software Engineer from India</h3>
 <img align="right" alt="coding" width="500" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif"/>
 <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1823692" style='border:none;'></iframe>
-[![My TryHackme](https://avatars.githubusercontent.com/u/49816567?s=96&v=4)](https://github.com/melqassas/)
-
 
 
 - 👀 I’m interested in Cloud computing, DevOps, Cybersecurity.
