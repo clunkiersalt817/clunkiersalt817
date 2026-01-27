@@ -3,19 +3,31 @@ name: Update badges
 on:
   schedule:
     # Runs at 0am UTC every day
-    - cron: "0 3 * * *"
-    
+    - cron: "0 0 * * *"
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
-    
+
 jobs:
   update-readme:
     name: Update Readme with badges
     runs-on: ubuntu-latest
     steps:
-      - name: Badges - Readme
-        uses: pemtajo/badge-readme@main
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
         with:
-          REPOSITORY: clunkiersalt817/clunkiersalt817
-          CREDLY_USER: kshitiz-sharma.e63cbb0f
-          CREDLY_SORT: RECENT # optional, this is the two forms from credly sort, more popular or recent first, by default use RECENT
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Update Badges
+        run: python scripts/update_badges.py
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "style: update credly badges [skip ci]"
+          file_pattern: README.md
